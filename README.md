@@ -9,7 +9,7 @@ This project is my solution to **Track 2: Data Normalization Service** for the R
 - Normalizes it for downstream machine learning tasks  
 - Saves the cleaned and scaled dataset in `.csv` format  
 
-The challenge is part of a real-world system to process data from iOS devices — like accelerometer and gyroscope readings — for location intelligence and context inference.
+The challenge is part of a real-world system to process data from iOS devices like accelerometer and gyroscope readings for location intelligence and context inference.
 
 ---
 
@@ -140,7 +140,7 @@ I chose Track 2 because I’m deeply interested in how raw environmental data ca
 
 I'm a final-year Electrical & Electronics Engineering student with growing experience in embedded systems and real-time sensor integration. I love learning hands-on through projects like this, and I'm inspired by RIFT-AR’s mission to build privacy-first, hardware-independent systems.
 
-I’m eager to keep learning fast, adapt to challenges, and eventually contribute to your team full time — building intelligent systems that bridge the physical and digital worlds.
+I’m eager to keep learning fast, adapt to challenges, and eventually contribute to your team full time, building intelligent systems that bridge the physical and digital worlds.
 
 ---
 
